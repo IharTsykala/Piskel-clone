@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/piskel-clone/static/css/main.88ac5ea2.chunk.css",
+    "main.js": "/piskel-clone/static/js/main.33e983f5.chunk.js",
+    "main.js.map": "/piskel-clone/static/js/main.33e983f5.chunk.js.map",
+    "runtime~main.js": "/piskel-clone/static/js/runtime~main.dff1cf59.js",
+    "runtime~main.js.map": "/piskel-clone/static/js/runtime~main.dff1cf59.js.map",
+    "static/js/2.908bc86b.chunk.js": "/piskel-clone/static/js/2.908bc86b.chunk.js",
+    "static/js/2.908bc86b.chunk.js.map": "/piskel-clone/static/js/2.908bc86b.chunk.js.map",
+    "index.html": "/piskel-clone/index.html",
+    "precache-manifest.e065865941ed386a7393fddc9b5ad59e.js": "/piskel-clone/precache-manifest.e065865941ed386a7393fddc9b5ad59e.js",
+    "service-worker.js": "/piskel-clone/service-worker.js",
+    "static/css/main.88ac5ea2.chunk.css.map": "/piskel-clone/static/css/main.88ac5ea2.chunk.css.map"
+  }
+}
